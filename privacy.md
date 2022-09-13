@@ -14,5 +14,6 @@ The scan data is all saved in your phone, including point clouds, meshes and tex
 The sharing function is only responsible for exporting the data to the format you want and storing it locally on the phone, Then share through Apple's own sharing capabilities, you can share it through AirDrop, Email, etc.
 
 
+## Feedback
 If you have any questions or comments on this policy, you can:
 Email: ugscan@hotmail.com
