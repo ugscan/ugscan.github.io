@@ -1,1 +1,1 @@
-# ugscan.github.io
+# UGScan
