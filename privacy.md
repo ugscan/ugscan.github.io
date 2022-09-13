@@ -1,0 +1,2 @@
+# UGScan Privacy Policy
+
