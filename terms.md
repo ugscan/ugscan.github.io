@@ -9,7 +9,7 @@ When we do not purchase a subscription, we provide free functions to ensure that
 
 ### Subscription
 Partial features in the app are charged for the subscription.
-Please purchase a subscription to become a Pro user to get to these functions. You will pay in a fixed period, and the payment period is divided into each year.
+Please purchase a subscription to become a Pro user to get these functions. You will pay in a fixed period, and the payment period is divided into each year.
 At the end of each subscription period, your subscription will automatically renew according to the subscription item you choose. If it succeed, the subscription authorization will be automatically extended for the same period unless you cancel it. You can cancel an auto-renewing subscription at any time (24 hours before the end of the current period) by visiting your Apple Account Subscription Management page.
 
 ### Pricing
