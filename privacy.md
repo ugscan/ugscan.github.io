@@ -1,9 +1,9 @@
-# UGScan Privacy Policy
+# Privacy Policy
 =========================
 
 
 This privacy policy governs the use of the software application UGScan for mobile devices. UGScan allows users to scan spaces and objects by using Camera and LiDAR technology. 
-We provide a scanner tools to help you generate the 3d content, This Privacy Policy will help you understand what information we collect, how we use it in our apps.
+We provide a scanner tool to help you generate the 3d content, This Privacy Policy will help you understand what information we collect, how we use it in our apps.
 
 
 ### Camera and LiDAR

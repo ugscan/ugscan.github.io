@@ -1,4 +1,4 @@
-# UGScan Terms of Use
+# Terms of Use
 =========================
 
 Please read the following items carefully When you use UGScan.
