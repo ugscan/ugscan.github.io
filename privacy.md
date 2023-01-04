@@ -2,7 +2,7 @@
 =========================
 
 
-This privacy policy governs the use of the software application UGScan for mobile devices. UGScan allows users to scan spaces and objects by using Camera and LiDAR technology. 
+This privacy policy governs the use of the software application UGScan and UGStudio. UGScan allows users to scan spaces and objects by using Camera and LiDAR technology. 
 We provide a scanner tool to help you generate the 3d content, This Privacy Policy will help you understand what information we collect, how we use it in our apps.
 
 
@@ -15,6 +15,11 @@ The scan data is all saved in your phone, including point clouds, meshes and tex
 
 ### Sharing
 The sharing function is only responsible for exporting the data to format you want and storing it locally on the phone, Then share through Apple's own sharing capabilities, you can share it through AirDrop, Email, etc.
+
+### Sync for UGStudio
+You can synchronize the scans to the UGStudio through the local network. Only when you select the UGStudio host to be synchronized will the data be send, and the scanned data will not be actively transmitted to the UGStudio.
+All data is 
+All of UGStudio's data is stored locally and is not actively uploaded to the cloud.
 
 ### Precise location information
 UGScan App does not collect precise information about the location of your mobile device.
