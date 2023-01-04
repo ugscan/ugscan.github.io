@@ -18,7 +18,6 @@ The sharing function is only responsible for exporting the data to format you wa
 
 ### Sync for UGStudio
 You can synchronize the scans to the UGStudio through the local network. Only when you select the UGStudio host to be synchronized will the data be send, and the scanned data will not be actively transmitted to the UGStudio.
-All data is 
 All of UGStudio's data is stored locally and is not actively uploaded to the cloud.
 
 ### Precise location information
