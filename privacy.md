@@ -1,38 +1,44 @@
-# Privacy Policy
+Privacy Policy
 =========================
 
+This privacy policy explains how we collect, use, disclose, process, and protect your personal information. We will strictly adhere to this privacy policy and respect your personal privacy rights.
+This application provides scanning tools to help you generate 3D content. The application allows users to use cameras and LiDAR scanners to scan space and objects. This privacy policy will help you understand what information we collect and how we use this information in the application.
 
-This privacy policy governs the use of the software application UGScan and UGStudio. UGScan allows users to scan spaces and objects by using Camera and LiDAR technology. 
-We provide a scanner tool to help you generate the 3d content, This Privacy Policy will help you understand what information we collect, how we use it in our apps.
+### Collection and Use of Personal Information
+Our application provides scanning tools and 3D content generation services, which require us to collect and use some of your personal information. We only collect necessary information to provide you with our services, and we only collect information that is relevant to our functionality. When using our application, you need to authorize us to access your camera and LiDAR scanner to help you scan objects and generate 3D content. Your scanning data will be saved on your device and your personal iCloud account, depending on whether you have enabled iCloud functionality.
 
+### Sharing Personal Information
+We will not actively disclose your personal information to any third party unless it is one of the following:
 
-### Camera and LiDAR
+	1. With your explicit consent;
+	2. According to legal provisions, legal procedures or administrative requirements;
+	3. To protect our legitimate rights or to prevent illegal activities such as fraud;
+	4. According to relevant contracts or service terms.
 
-UGScan App scan the real world with camera and LiDAR, Image and depth data are saved in your phone's local database for post-processing, but not in the cloud, never shares your captured scans or imagery with the third parties. Your data remains on your device.
-
-### Scan Data
-The scan data is all saved in your phone, including point clouds, meshes and textures, not in any cloud storage, not even in iCloud. It is completely stored in local.
+### Scanning Data
+Scanning data is only saved on your phone by default, including point clouds, models, and textures. If you have enabled iCloud synchronization, your scanning data will also be saved in iCloud. No user can access your data without your authorization.
 
 ### Sharing
-The sharing function is only responsible for exporting the data to format you want and storing it locally on the phone, Then share through Apple's own sharing capabilities, you can share it through AirDrop, Email, etc.
+We provide data export and sharing functions. The data export function is responsible for exporting data in the format you need and storing it locally. Then you can share it through Apple's sharing function. You can share it through AirDrop, email, and other methods. The WebURL sharing function will save your scanning data in the public database of this application on iCloud and authorize people with the WebURL link to access it. Please comply with the Content Agreement Protocol.
 
-### Sync for UGStudio
-You can synchronize the scans to the UGStudio through the local network. Only when you select the UGStudio host to be synchronized will the data be send, and the scanned data will not be actively transmitted to the UGStudio.
-All of UGStudio's data is stored locally and is not actively uploaded to the cloud.
+### GPS Location Information
+We may record your location information to mark the location of scanning data. These location information will only be used for internal use of this application and will not be shared with third parties or used for other purposes.
 
-### Precise location information
-UGScan App does not collect precise information about the location of your mobile device.
+### Device Information
+We may collect your device information, such as device model, operating system version, application version, etc., to help us improve the performance and functionality of the application.
 
-### Children
-We do not use the App to knowingly solicit data from or market to children under the age of 13.
+### iCloud Account
+If you choose to use our iCloud synchronization or sharing functions, we may collect and use your iCloud account information to provide you with data synchronization services. We will not collect your iCloud account password and will only use the iCloud account information you provide to verify your identity.
 
-### Changes
-This Privacy Policy may be updated from time to time for any reasons. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+### Children's Privacy
+We will not intentionally collect personal information of children under 13 years old or sell to them.
 
-### Your Consent
-By using the App, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using on a hand held device or using or touching information in any way, including, but not limited to, storing, deleting, using, combining and disclosing information, all of which activities will on your device. 
+### Modification of Privacy Policy
+We may update this privacy policy as necessary. We reserve the right to modify this policy at any time, and you can always view the latest version of this privacy policy. If you continue to use our services after the modification of this privacy policy, it means that you agree to abide by the modified privacy policy.
 
+### Agreement to This Policy
+By installing this application, you agree that we will handle your information in the manner specified in this privacy policy. "Handling" means using or touching information on a handheld device in any way, including but not limited to storing, deleting, using, combining, and disclosing information.
 
-## Contact us
-If you have any questions or comments for this policy, you can contact us:
+### Contact Us
+If you have any questions or comments about this policy, please contact us at:
 Email: ugscan@hotmail.com

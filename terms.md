@@ -1,31 +1,34 @@
-# Terms of Use
+Terms of Use
 =========================
 
-Please read the following items carefully When you use UGScan or UGStudio.
-You agree to the following items which apply to all free users, Pro users etc by using it .
+By installing and using UGScan or UGStudio, you agree to be bound by the following Terms of Use. Please read these terms carefully. These terms apply to all free and professional version users.
 
 ### Free Features
-When we do not purchase a subscription, we provide free functions to ensure that you can scan and view the results normally, but if you want to use some functions and share the scan data, you need to purchase a subscription to upgrade to the Pro version.
+We offer free features that allow you to scan and view results. If you require professional features such as sharing scan data or using advanced scanning, you will need to purchase a subscription upgrade to the professional version.
 
 ### Subscription
-Partial features in the app are charged for the subscription.
-Please purchase a subscription to become a Pro user to get these functions. You will pay in a fixed period, and the payment period is divided into each year.
-At the end of each subscription period, your subscription will automatically renew according to the subscription item you choose. If it succeed, the subscription authorization will be automatically extended for the same period unless you cancel it. You can cancel an auto-renewing subscription at any time (24 hours before the end of the current period) by visiting your Apple Account Subscription Management page.
+Some features of this application require a paid subscription. If you require these features, you must purchase a subscription to become a professional user. You will make payments for a fixed period, with payment periods available on a monthly or annual basis.
+At the end of each subscription period, your subscription will automatically renew according to the subscription item you selected. If the renewal is successful, the subscription authorization will automatically be extended for the same period, unless you cancel the subscription authorization.
+You can cancel automatic subscription renewal at any time (up to 24 hours before the current period ends) by accessing the subscription management page in your Apple account.
 
 ### UGScan and UGStudio
-UGStudio is an extension of the UGScan, which is used to make up for the lack of mobile phone memory and computing power. The professional version subscription will work on both the UGScan and UGStudio, and there is no need to purchase subscriptions repeatedly.
+UGStudio is an extension of UGScan that compensates for insufficient phone memory and computing power. Only professional users can use the data synchronization function. If you need to synchronize scans from UGScan to Studio, you will need to upgrade to the professional version.
 
 ### Pricing
-We may also modify the prices of subscriptions in the future, and any changes to subscription prices will take effect after the end of the current period.
-If the price of the item you're subscribing to changes, you'll be alerted before auto-renewal, and you can choose to continue or cancel it.
-If you choose to continue your subscription after the pricing change has become effective, you agree to the revised price.
+We may modify subscription prices in the future. Any changes to subscription prices will take effect after the current period ends.
+If the price of the subscription item you subscribed to changes, you will be notified before automatic renewal. You can choose to continue or cancel it.
+If you choose to continue the subscription after the price change takes effect, you agree to the modified price.
 
-### Refund
-Subscription fees already paid are non-refundable, except it is required by law.
+### Refunds
+Refunds will comply with Apple's subscription refund policy. To request a refund, please contact Apple's official customer support.
 
-### Account
-UGScan and UGStudio does not hold your account. Please refer to the Privacy Policy about individuals privacy. If you change your Apple ID in the middle of process ,it may cause the recognition of subscription authorization become invalid. Please cancel the previous subscription account and re-subscribe with the new Apple ID to become a Pro user.
+### Accounts
+UGScan and UGStudio do not retain your account. For personal privacy information, please refer to our privacy policy.
+If you change your Apple ID, it may result in the invalidation of your subscription authorization. Please cancel the previous subscription account and subscribe again with the new Apple ID to become a professional user.
 
-### Contact us
-Please contact us if you have any questions about these items.
+### Safety
+Please be aware of the surrounding safety environment when using UGScan for scanning. Individuals shall bear corresponding responsibilities for any accidents that may occur.
+
+### Contact Us
+If you have any questions about these products, please contact us.
 Email: ugscan@hotmail.com
