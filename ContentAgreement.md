@@ -1,10 +1,11 @@
-Content Agreement
+# Content Agreement
+### Updated on April 24th, 2023
 =========================
 
 As a content generation tool, UGScan provides fast scanning and processing of 3D data. As a user and content creator, if you wish to generate a WebURL share, please adhere to the following agreements. If you do not agree with any of the following, please do not use the WebURL share function.
 
 ### Definitions
-The "content" referred to in this Content Agreement includes but is not limited to photos, videos, text, depths, and any other scan content uploaded or posted by users.
+The "content" referred to in this Content Agreement includes but is not limited to photos, videos, audio, text, depths, and any other scan content uploaded or posted by users.
 
 ### Compliance with Laws and Regulations
 Users agree that their published content will not violate any applicable laws and regulations, including but not limited to local data privacy and security regulations. Users agree that their published content will not involve illegal activities such as pornography, gambling, violence, and so on.
