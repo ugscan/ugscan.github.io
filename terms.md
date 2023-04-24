@@ -1,5 +1,5 @@
-Terms of Use
-Updated on April 24, 2023
+# Terms of Use
+### Updated on April 24, 2023
 =========================
 
 Welcome to our application. By using this application, you agree to these terms of use. Please read these terms carefully to ensure that you fully understand your rights and obligations with respect to us.
